@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 I'm currently working on building an e-commerce app for makeup products using <b> Spring Boot, MongoDB, Kafka and Redis. </b>  
+
+
 <!--
 **peppermintflowers/peppermintflowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

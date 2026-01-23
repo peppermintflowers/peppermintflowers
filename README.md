@@ -1,5 +1,5 @@
-## Hi there 👋
-Here's a mixed bag of curiosity, code, and systems thinking 💡</b>  
+## Hello ✨🌷
+Here's a mixed bag of curiosity, code, and systems thinking 💡⬇️ </b>  
 🌱 Fun fact: I'm currently learning GPU Architecture and Security fundamentals. </b>  
 
 

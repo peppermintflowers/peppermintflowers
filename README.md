@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-🔭 I'm currently working on building an e-commerce app for makeup products using <b> Spring Boot, MongoDB, Kafka and Redis. </b>  
+Here's a mixed bag of curiosity, code, and systems thinking 💡
+🌱 Fun fact: I'm currently learning GPU Architecture and Security fundamentals. </b>  
 
 
 <!--

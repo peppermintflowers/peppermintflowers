@@ -1,6 +1,6 @@
 ## Hello ✨🌷
 Here's a mixed bag of curiosity, code, and systems thinking 💡⬇️ </b>  
-🌱 Fun fact: I'm currently learning GPU Architecture and Security fundamentals. </b>  
+🌱 Currently building Tawa: turning beauty product usage, depletion and repurchase decisions into a systems problem. </b>  
 
 
 <!--

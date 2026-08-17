@@ -1,6 +1,6 @@
 ## Hello ✨🌷
 Here's a mixed bag of curiosity, code, and systems thinking 💡⬇️ </b>  
-🌱 Currently building Tawa: turning beauty product usage, depletion and repurchase decisions into a systems problem. </b>  
+🌱 Currently working on optimizing LLM Inference. </b>  
 
 
 <!--
